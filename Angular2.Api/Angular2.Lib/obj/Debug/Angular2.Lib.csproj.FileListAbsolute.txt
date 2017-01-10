@@ -1,5 +1,0 @@
-C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Lib\bin\Debug\Angular2.Lib.dll
-C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Lib\bin\Debug\Angular2.Lib.pdb
-C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Lib\obj\Debug\Angular2.Lib.csprojResolveAssemblyReference.cache
-C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Lib\obj\Debug\Angular2.Lib.dll
-C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Lib\obj\Debug\Angular2.Lib.pdb
