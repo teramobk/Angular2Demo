@@ -1,4 +1,3 @@
-C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\obj\Debug\Angular2.Api.csprojResolveAssemblyReference.cache
 C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\bin\Angular2.Api.dll.config
 C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\bin\Angular2.Api.dll
 C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\bin\Angular2.Api.pdb
@@ -61,5 +60,6 @@ C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\bin\Microsoft.Ow
 C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\bin\System.Web.Http.Owin.xml
+C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\obj\Debug\Angular2.Api.csprojResolveAssemblyReference.cache
 C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\obj\Debug\Angular2.Api.dll
 C:\Source Control\GitHub\Angular2Demo\Angular2.Api\Angular2.Api\obj\Debug\Angular2.Api.pdb
