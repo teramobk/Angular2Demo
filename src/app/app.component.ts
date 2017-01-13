@@ -8,9 +8,10 @@ import { Hero, HEROES } from './hero'
 })
 export class AppComponent {
   title = 'Tour Of Heroes';
-  myHero: Hero = {
-    id: 100,
-    name: 'Superman'
-  }
+  selectedHero: Hero;
   heroes: Hero[] = HEROES;
+
+  select(hero: Hero): void {
+    this.selectedHero = hero;
+  }
 }
