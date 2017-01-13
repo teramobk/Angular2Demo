@@ -12,6 +12,6 @@ import 'rxjs/add/operator/toPromise';
 export class HeroService {
   constructor(private http: Http) { }
 
-  this.heroesUrl = 'http://vard12/dataservices/WebApi/Angular2Demo/api/heroes';
+  heroesUrl : string = 'http://vard12/dataservices/WebApi/Angular2Demo/api/heroes';
 
 }
